@@ -7,6 +7,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-1E90FF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-rich%20presence-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![VirusTotal](https://img.shields.io/badge/virustotal-scan%20report-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/e2dbc12b006728b3a8c90fca8e8250dac13c954b57aa1dad282dbe45dbfc0934)
 
 **Made by [@hbkvxncent](https://discord.com/users/622835390239473665)**
 
@@ -21,7 +22,7 @@
 | Game | Platform |
 | --- | --- |
 | 🚗 **Grand Theft Auto V Enhanced** | Enhanced Edition |
-| 🚓 **Grand Theft Auto V Legacy** | Legacy Edition and FiveM |
+| 🚓 **Grand Theft Auto V Legacy** | Legacy Edition |
 | 🤠 **Red Dead Redemption 2** | Story and Online |
 
 ### Features
@@ -39,6 +40,26 @@
 - Python **3.8** or newer
 - The **Discord desktop app**, running on the same machine
 - The **pypresence** library
+
+---
+
+## 🛡️ Verify Before You Download
+
+Want to check the file before you run it? Scan results for `rpc.py` are available on VirusTotal:
+
+**[View the VirusTotal report](https://www.virustotal.com/gui/file/e2dbc12b006728b3a8c90fca8e8250dac13c954b57aa1dad282dbe45dbfc0934)**
+
+You can also confirm your download is the same file. Compute its SHA-256 hash and compare it to the one in the report link above:
+
+```bash
+# Windows (Command Prompt)
+certutil -hashfile rpc.py SHA256
+
+# macOS / Linux
+shasum -a 256 rpc.py
+```
+
+The script is plain Python, so you can also open `rpc.py` in any text editor and read it before running it.
 
 ---
 
@@ -107,7 +128,7 @@ Running into errors or issues? Reach out and I'll get back to you with an answer
 
 ## **⚠️ Disclaimer**
 
-**The Client IDs used in this script belong to Rockstar Games and FiveM, not to the author. Connecting with someone else's Application ID is considered impersonation and goes against the Discord Terms of Service. Use at your own risk.**
+**The Client IDs used in this script belong to Rockstar Games, not to the author. Connecting with someone else's Application ID is considered impersonation and goes against the Discord Terms of Service. Use at your own risk.**
 
 ---
 
