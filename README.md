@@ -344,6 +344,18 @@ not damage your GTA V installation.
   <a href="https://www.youtube.com/watch?v=KGqys3Aoh04">▶ Watch the showcase on YouTube</a>
 </div>
 
+### Homelander GTA 5 mod — Part 2
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=S_lKpTTe4PM">
+    <img src="https://i.ytimg.com/vi/S_lKpTTe4PM/hqdefault.jpg" alt="Homelander GTA 5 mod part 2 video" width="560">
+  </a>
+  <br>
+  <strong>Homelander gta5 mod pt.2</strong>
+  <br>
+  <a href="https://www.youtube.com/watch?v=S_lKpTTe4PM">▶ Watch Part 2 on YouTube</a>
+</div>
+
 ### Complete setup guide
 
 <div align="center">
